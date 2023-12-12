@@ -1,0 +1,1 @@
+# terraform-provider-manual-test-cli
